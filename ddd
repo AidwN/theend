@@ -1,7 +1,7 @@
 --Credits to https://v3rmillion.net/member.php?action=profile&uid=1356726 for base build
 local name2         = Drawing.new("Text")
-name2.Text          = "meiosis"
-name2.Color         = Color3.fromRGB(255,0,255)
+name2.Text          = "allah.lua"
+name2.Color         = Color3.fromRGB(255,131,0)
 name2.Transparency  = 1
 name2.Size          = 18
 name2.Visible       = true
